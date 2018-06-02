@@ -1,0 +1,15 @@
+Valor na posição 0: 0
+Valor na posição 1: 1
+Valor na posição 2: 2
+Valor na posição 3: 3
+Valor na posição 4: 4
+Valor na posição 5: 5
+Valor na posição 6: 6
+Valor na posição 7: 7
+Valor na posição 8: 8
+Valor na posição 9: 9
+Valor na posição 10: 78
+Valor na posição 11: 87
+Valor na posição 12: 9
+Valor na posição 13: 3
+Valor na posição 14: 59
